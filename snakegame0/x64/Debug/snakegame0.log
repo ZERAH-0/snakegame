@@ -1,5 +1,0 @@
-﻿  main.cpp
-  snakegame.cpp
-  코드를 생성하고 있습니다...
-SDL2main.lib(SDL_windows_main.obj) : error LNK2019: SDL_mainmain_getcmdline 함수에서 참조되는 확인할 수 없는 외부 기호
-C:\Users\JURAN\Desktop\snakegame0\x64\Debug\snakegame0.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
