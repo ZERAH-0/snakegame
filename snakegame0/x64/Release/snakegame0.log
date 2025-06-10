@@ -1,0 +1,6 @@
+﻿main.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Stage2::Stage2(void)" (??0Stage2@@QEAA@XZ)
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Intro::Intro(void)" (??0Intro@@QEAA@XZ)
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Stage1::Stage1(void)" (??0Stage1@@QEAA@XZ)
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Ending::Ending(void)" (??0Ending@@QEAA@XZ)
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 "public: __cdecl Die::Die(void)" (??0Die@@QEAA@XZ)
+C:\Users\JURAN\Desktop\snakegame0\x64\Release\snakegame0.exe : fatal error LNK1120: 5개의 확인할 수 없는 외부 참조입니다.
